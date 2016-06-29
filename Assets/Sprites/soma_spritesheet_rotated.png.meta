@@ -1,0 +1,4192 @@
+fileFormatVersion: 2
+guid: 6bb51ec4a9ee04d6b82b7229e25c419d
+timeCreated: 1467215453
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: soma_spritesheet_rotated_0
+    21300002: soma_spritesheet_rotated_1
+    21300004: soma_spritesheet_rotated_2
+    21300006: soma_spritesheet_rotated_3
+    21300008: soma_spritesheet_rotated_4
+    21300010: soma_spritesheet_rotated_5
+    21300012: soma_spritesheet_rotated_6
+    21300014: soma_spritesheet_rotated_7
+    21300016: soma_spritesheet_rotated_8
+    21300018: soma_spritesheet_rotated_9
+    21300020: soma_spritesheet_rotated_10
+    21300022: soma_spritesheet_rotated_11
+    21300024: soma_spritesheet_rotated_12
+    21300026: soma_spritesheet_rotated_13
+    21300028: soma_spritesheet_rotated_14
+    21300030: soma_spritesheet_rotated_15
+    21300032: soma_spritesheet_rotated_16
+    21300034: soma_spritesheet_rotated_17
+    21300036: soma_spritesheet_rotated_18
+    21300038: soma_spritesheet_rotated_19
+    21300040: soma_spritesheet_rotated_20
+    21300042: soma_spritesheet_rotated_21
+    21300044: soma_spritesheet_rotated_22
+    21300046: soma_spritesheet_rotated_23
+    21300048: soma_spritesheet_rotated_24
+    21300050: soma_spritesheet_rotated_25
+    21300052: soma_spritesheet_rotated_26
+    21300054: soma_spritesheet_rotated_27
+    21300056: soma_spritesheet_rotated_28
+    21300058: soma_spritesheet_rotated_29
+    21300060: soma_spritesheet_rotated_30
+    21300062: soma_spritesheet_rotated_31
+    21300064: soma_spritesheet_rotated_32
+    21300066: soma_spritesheet_rotated_33
+    21300068: soma_spritesheet_rotated_34
+    21300070: soma_spritesheet_rotated_35
+    21300072: soma_spritesheet_rotated_36
+    21300074: soma_spritesheet_rotated_37
+    21300076: soma_spritesheet_rotated_38
+    21300078: soma_spritesheet_rotated_39
+    21300080: soma_spritesheet_rotated_40
+    21300082: soma_spritesheet_rotated_41
+    21300084: soma_spritesheet_rotated_42
+    21300086: soma_spritesheet_rotated_43
+    21300088: soma_spritesheet_rotated_44
+    21300090: soma_spritesheet_rotated_45
+    21300092: soma_spritesheet_rotated_46
+    21300094: soma_spritesheet_rotated_47
+    21300096: soma_spritesheet_rotated_48
+    21300098: soma_spritesheet_rotated_49
+    21300100: soma_spritesheet_rotated_50
+    21300102: soma_spritesheet_rotated_51
+    21300104: soma_spritesheet_rotated_52
+    21300106: soma_spritesheet_rotated_53
+    21300108: soma_spritesheet_rotated_54
+    21300110: soma_spritesheet_rotated_55
+    21300112: soma_spritesheet_rotated_56
+    21300114: soma_spritesheet_rotated_57
+    21300116: soma_spritesheet_rotated_58
+    21300118: soma_spritesheet_rotated_60
+    21300120: soma_spritesheet_rotated_61
+    21300122: soma_spritesheet_rotated_62
+    21300124: soma_spritesheet_rotated_63
+    21300126: soma_spritesheet_rotated_64
+    21300128: soma_spritesheet_rotated_65
+    21300130: soma_spritesheet_rotated_66
+    21300132: soma_spritesheet_rotated_67
+    21300134: soma_spritesheet_rotated_68
+    21300136: soma_spritesheet_rotated_69
+    21300138: soma_spritesheet_rotated_70
+    21300140: soma_spritesheet_rotated_71
+    21300142: soma_spritesheet_rotated_72
+    21300144: soma_spritesheet_rotated_74
+    21300146: soma_spritesheet_rotated_75
+    21300148: soma_spritesheet_rotated_76
+    21300150: soma_spritesheet_rotated_77
+    21300152: soma_spritesheet_rotated_78
+    21300154: soma_spritesheet_rotated_79
+    21300156: soma_spritesheet_rotated_80
+    21300158: soma_spritesheet_rotated_81
+    21300160: soma_spritesheet_rotated_82
+    21300162: soma_spritesheet_rotated_83
+    21300164: soma_spritesheet_rotated_84
+    21300166: soma_spritesheet_rotated_85
+    21300168: soma_spritesheet_rotated_86
+    21300170: soma_spritesheet_rotated_87
+    21300172: soma_spritesheet_rotated_88
+    21300174: soma_spritesheet_rotated_89
+    21300176: soma_spritesheet_rotated_91
+    21300178: soma_spritesheet_rotated_92
+    21300180: soma_spritesheet_rotated_93
+    21300182: soma_spritesheet_rotated_94
+    21300184: soma_spritesheet_rotated_95
+    21300186: soma_spritesheet_rotated_96
+    21300188: soma_spritesheet_rotated_97
+    21300190: soma_spritesheet_rotated_98
+    21300192: soma_spritesheet_rotated_99
+    21300194: soma_spritesheet_rotated_100
+    21300196: soma_spritesheet_rotated_101
+    21300198: soma_spritesheet_rotated_102
+    21300200: soma_spritesheet_rotated_103
+    21300202: soma_spritesheet_rotated_104
+    21300204: soma_spritesheet_rotated_106
+    21300206: soma_spritesheet_rotated_107
+    21300208: soma_spritesheet_rotated_108
+    21300210: soma_spritesheet_rotated_109
+    21300212: soma_spritesheet_rotated_110
+    21300214: soma_spritesheet_rotated_111
+    21300216: soma_spritesheet_rotated_112
+    21300218: soma_spritesheet_rotated_113
+    21300220: soma_spritesheet_rotated_114
+    21300222: soma_spritesheet_rotated_115
+    21300224: soma_spritesheet_rotated_116
+    21300226: soma_spritesheet_rotated_117
+    21300228: soma_spritesheet_rotated_119
+    21300230: soma_spritesheet_rotated_120
+    21300232: soma_spritesheet_rotated_121
+    21300234: soma_spritesheet_rotated_122
+    21300236: soma_spritesheet_rotated_123
+    21300238: soma_spritesheet_rotated_124
+    21300240: soma_spritesheet_rotated_125
+    21300242: soma_spritesheet_rotated_126
+    21300244: soma_spritesheet_rotated_127
+    21300246: soma_spritesheet_rotated_128
+    21300248: soma_spritesheet_rotated_129
+    21300250: soma_spritesheet_rotated_130
+    21300252: soma_spritesheet_rotated_131
+    21300254: soma_spritesheet_rotated_132
+    21300256: soma_spritesheet_rotated_133
+    21300258: soma_spritesheet_rotated_134
+    21300260: soma_spritesheet_rotated_135
+    21300262: soma_spritesheet_rotated_136
+    21300264: soma_spritesheet_rotated_137
+    21300266: soma_spritesheet_rotated_138
+    21300268: soma_spritesheet_rotated_139
+    21300270: soma_spritesheet_rotated_140
+    21300272: soma_spritesheet_rotated_141
+    21300274: soma_spritesheet_rotated_142
+    21300276: soma_spritesheet_rotated_143
+    21300278: soma_spritesheet_rotated_144
+    21300280: soma_spritesheet_rotated_145
+    21300282: soma_spritesheet_rotated_146
+    21300284: soma_spritesheet_rotated_147
+    21300286: soma_spritesheet_rotated_148
+    21300288: soma_spritesheet_rotated_149
+    21300290: soma_spritesheet_rotated_150
+    21300292: soma_spritesheet_rotated_151
+    21300294: soma_spritesheet_rotated_152
+    21300296: soma_spritesheet_rotated_153
+    21300298: soma_spritesheet_rotated_154
+    21300300: soma_spritesheet_rotated_155
+    21300302: soma_spritesheet_rotated_156
+    21300304: soma_spritesheet_rotated_157
+    21300306: soma_spritesheet_rotated_158
+    21300308: soma_spritesheet_rotated_159
+    21300310: soma_spritesheet_rotated_160
+    21300312: soma_spritesheet_rotated_161
+    21300314: soma_spritesheet_rotated_162
+    21300316: soma_spritesheet_rotated_163
+    21300318: soma_spritesheet_rotated_164
+    21300320: soma_spritesheet_rotated_165
+    21300322: soma_spritesheet_rotated_166
+    21300324: soma_spritesheet_rotated_167
+    21300326: soma_spritesheet_rotated_168
+    21300328: soma_spritesheet_rotated_169
+    21300330: soma_spritesheet_rotated_170
+    21300332: soma_spritesheet_rotated_171
+    21300334: soma_spritesheet_rotated_172
+    21300336: soma_spritesheet_rotated_173
+    21300338: soma_spritesheet_rotated_174
+    21300340: soma_spritesheet_rotated_175
+    21300342: soma_spritesheet_rotated_176
+    21300344: soma_spritesheet_rotated_177
+    21300346: soma_spritesheet_rotated_178
+    21300348: soma_spritesheet_rotated_179
+    21300350: soma_spritesheet_rotated_180
+    21300352: soma_spritesheet_rotated_181
+    21300354: soma_spritesheet_rotated_182
+    21300356: soma_spritesheet_rotated_183
+    21300358: soma_spritesheet_rotated_184
+    21300360: soma_spritesheet_rotated_185
+    21300362: soma_spritesheet_rotated_186
+    21300364: soma_spritesheet_rotated_187
+    21300366: soma_spritesheet_rotated_188
+    21300368: soma_spritesheet_rotated_189
+    21300370: soma_spritesheet_rotated_190
+    21300372: soma_spritesheet_rotated_191
+    21300374: soma_spritesheet_rotated_192
+    21300376: soma_spritesheet_rotated_193
+    21300378: soma_spritesheet_rotated_194
+    21300380: soma_spritesheet_rotated_195
+    21300382: soma_spritesheet_rotated_196
+    21300384: soma_spritesheet_rotated_197
+    21300386: soma_spritesheet_rotated_198
+    21300388: soma_spritesheet_rotated_199
+    21300390: soma_spritesheet_rotated_200
+    21300392: soma_spritesheet_rotated_201
+    21300394: soma_spritesheet_rotated_202
+    21300396: soma_spritesheet_rotated_203
+    21300398: soma_spritesheet_rotated_204
+    21300400: soma_spritesheet_rotated_205
+    21300402: soma_spritesheet_rotated_206
+    21300404: soma_spritesheet_rotated_207
+    21300406: soma_spritesheet_rotated_208
+    21300408: soma_spritesheet_rotated_209
+    21300410: soma_spritesheet_rotated_210
+    21300412: soma_spritesheet_rotated_211
+    21300414: soma_spritesheet_rotated_212
+    21300416: soma_spritesheet_rotated_213
+    21300418: soma_spritesheet_rotated_214
+    21300420: soma_spritesheet_rotated_215
+    21300422: soma_spritesheet_rotated_216
+    21300424: soma_spritesheet_rotated_217
+    21300426: soma_spritesheet_rotated_218
+    21300428: soma_spritesheet_rotated_219
+    21300430: soma_spritesheet_rotated_220
+    21300432: soma_spritesheet_rotated_221
+    21300434: soma_spritesheet_rotated_222
+    21300436: soma_spritesheet_rotated_223
+    21300438: soma_spritesheet_rotated_224
+    21300440: soma_spritesheet_rotated_225
+    21300442: soma_spritesheet_rotated_226
+    21300444: soma_spritesheet_rotated_227
+    21300446: soma_spritesheet_rotated_228
+    21300448: soma_spritesheet_rotated_229
+    21300450: soma_spritesheet_rotated_230
+    21300452: soma_spritesheet_rotated_231
+    21300454: soma_spritesheet_rotated_232
+    21300456: soma_spritesheet_rotated_233
+    21300458: soma_spritesheet_rotated_234
+    21300460: soma_spritesheet_rotated_235
+    21300462: soma_spritesheet_rotated_236
+    21300464: soma_spritesheet_rotated_237
+    21300466: soma_spritesheet_rotated_238
+    21300468: soma_spritesheet_rotated_239
+    21300470: soma_spritesheet_rotated_240
+    21300472: soma_spritesheet_rotated_241
+    21300474: soma_spritesheet_rotated_242
+    21300476: soma_spritesheet_rotated_243
+    21300478: soma_spritesheet_rotated_244
+    21300480: soma_spritesheet_rotated_245
+    21300482: soma_spritesheet_rotated_246
+    21300484: soma_spritesheet_rotated_247
+    21300486: soma_spritesheet_rotated_248
+    21300488: soma_spritesheet_rotated_249
+    21300490: soma_spritesheet_rotated_250
+    21300492: soma_spritesheet_rotated_251
+    21300494: soma_spritesheet_rotated_252
+    21300496: soma_spritesheet_rotated_253
+    21300498: soma_spritesheet_rotated_254
+    21300500: soma_spritesheet_rotated_255
+    21300502: soma_spritesheet_rotated_256
+    21300504: soma_spritesheet_rotated_257
+    21300506: soma_spritesheet_rotated_258
+    21300508: soma_spritesheet_rotated_259
+    21300510: soma_spritesheet_rotated_260
+    21300512: soma_spritesheet_rotated_261
+    21300514: soma_spritesheet_rotated_262
+    21300516: soma_spritesheet_rotated_263
+    21300518: soma_spritesheet_rotated_264
+    21300520: soma_spritesheet_rotated_265
+    21300522: soma_spritesheet_rotated_266
+    21300524: soma_spritesheet_rotated_267
+    21300526: soma_spritesheet_rotated_268
+    21300528: soma_spritesheet_rotated_269
+    21300530: soma_spritesheet_rotated_270
+    21300532: soma_spritesheet_rotated_271
+    21300534: soma_spritesheet_rotated_272
+    21300536: soma_spritesheet_rotated_273
+    21300538: soma_spritesheet_rotated_274
+    21300540: soma_spritesheet_rotated_275
+    21300542: soma_spritesheet_rotated_276
+    21300544: soma_spritesheet_rotated_277
+    21300546: soma_spritesheet_rotated_278
+    21300548: soma_spritesheet_rotated_279
+    21300550: soma_spritesheet_rotated_280
+    21300552: soma_spritesheet_rotated_281
+    21300554: soma_spritesheet_rotated_282
+    21300556: soma_spritesheet_rotated_283
+    21300558: soma_spritesheet_rotated_284
+    21300560: soma_spritesheet_rotated_285
+    21300562: soma_spritesheet_rotated_286
+    21300564: soma_spritesheet_rotated_287
+    21300566: soma_spritesheet_rotated_288
+    21300568: soma_spritesheet_rotated_289
+    21300570: soma_spritesheet_rotated_290
+    21300572: soma_spritesheet_rotated_291
+    21300574: soma_spritesheet_rotated_292
+    21300576: soma_spritesheet_rotated_293
+    21300578: soma_spritesheet_rotated_294
+    21300580: soma_spritesheet_rotated_295
+    21300582: soma_spritesheet_rotated_296
+    21300584: soma_spritesheet_rotated_297
+    21300586: soma_spritesheet_rotated_298
+    21300588: soma_spritesheet_rotated_299
+    21300590: soma_spritesheet_rotated_301
+    21300592: soma_spritesheet_rotated_302
+    21300594: soma_spritesheet_rotated_303
+    21300596: soma_spritesheet_rotated_304
+    21300598: soma_spritesheet_rotated_305
+    21300600: soma_spritesheet_rotated_306
+    21300602: soma_spritesheet_rotated_307
+    21300604: soma_spritesheet_rotated_308
+    21300606: soma_spritesheet_rotated_309
+    21300608: soma_spritesheet_rotated_310
+    21300610: soma_spritesheet_rotated_311
+    21300612: soma_spritesheet_rotated_312
+    21300614: soma_spritesheet_rotated_313
+    21300616: soma_spritesheet_rotated_314
+    21300618: soma_spritesheet_rotated_315
+    21300620: soma_spritesheet_rotated_316
+    21300622: soma_spritesheet_rotated_317
+    21300624: soma_spritesheet_rotated_318
+    21300626: soma_spritesheet_rotated_319
+    21300628: soma_spritesheet_rotated_320
+    21300630: soma_spritesheet_rotated_321
+    21300632: soma_spritesheet_rotated_322
+    21300634: soma_spritesheet_rotated_323
+    21300636: soma_spritesheet_rotated_324
+    21300638: soma_spritesheet_rotated_325
+    21300640: soma_spritesheet_rotated_326
+    21300642: soma_spritesheet_rotated_327
+    21300644: soma_spritesheet_rotated_328
+    21300646: soma_spritesheet_rotated_329
+    21300648: soma_spritesheet_rotated_330
+    21300650: soma_spritesheet_rotated_331
+    21300652: soma_spritesheet_rotated_332
+    21300654: soma_spritesheet_rotated_334
+    21300656: soma_spritesheet_rotated_335
+    21300658: soma_spritesheet_rotated_336
+    21300660: soma_spritesheet_rotated_337
+    21300662: soma_spritesheet_rotated_338
+    21300664: soma_spritesheet_rotated_339
+    21300666: soma_spritesheet_rotated_340
+    21300668: soma_spritesheet_rotated_341
+    21300670: soma_spritesheet_rotated_342
+    21300672: soma_spritesheet_rotated_343
+    21300674: soma_spritesheet_rotated_344
+    21300676: soma_spritesheet_rotated_345
+    21300678: soma_spritesheet_rotated_346
+    21300680: soma_spritesheet_rotated_347
+    21300682: soma_spritesheet_rotated_348
+    21300684: soma_spritesheet_rotated_349
+    21300686: soma_spritesheet_rotated_350
+    21300688: soma_spritesheet_rotated_351
+    21300690: soma_spritesheet_rotated_352
+    21300692: soma_spritesheet_rotated_353
+    21300694: soma_spritesheet_rotated_354
+    21300696: soma_spritesheet_rotated_355
+    21300698: soma_spritesheet_rotated_356
+    21300700: soma_spritesheet_rotated_357
+    21300702: soma_spritesheet_rotated_358
+    21300704: soma_spritesheet_rotated_359
+    21300706: soma_spritesheet_rotated_360
+    21300708: soma_spritesheet_rotated_361
+    21300710: soma_spritesheet_rotated_362
+    21300712: soma_spritesheet_rotated_363
+    21300714: soma_spritesheet_rotated_364
+    21300716: soma_spritesheet_rotated_365
+    21300718: soma_spritesheet_rotated_366
+    21300720: soma_spritesheet_rotated_367
+    21300722: soma_spritesheet_rotated_368
+    21300724: soma_spritesheet_rotated_369
+    21300726: soma_spritesheet_rotated_370
+    21300728: soma_spritesheet_rotated_371
+    21300730: soma_spritesheet_rotated_372
+    21300732: soma_spritesheet_rotated_373
+    21300734: soma_spritesheet_rotated_374
+    21300736: soma_spritesheet_rotated_375
+    21300738: soma_spritesheet_rotated_376
+    21300740: soma_spritesheet_rotated_377
+    21300742: soma_spritesheet_rotated_378
+    21300744: soma_spritesheet_rotated_379
+    21300746: soma_spritesheet_rotated_380
+    21300748: soma_spritesheet_rotated_381
+    21300750: soma_spritesheet_rotated_382
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: soma_spritesheet_rotated_0
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 688
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_1
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 681
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_2
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 674
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 645
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_4
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 653
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_5
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 628
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_6
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 603
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_7
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 629
+        width: 45
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_8
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 606
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_9
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 586
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_10
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 561
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_11
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 550
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_12
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 555
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_13
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 545
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_14
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 541
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_15
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 510
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_16
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 515
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_17
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 525
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_18
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 499
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_19
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 498
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_20
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 501
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_21
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 492
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_22
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 475
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_23
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 475
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_24
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 493
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_25
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 457
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_26
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 460
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_27
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 465
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_28
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 451
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_29
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 451
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_30
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 443
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_31
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 428
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_32
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 435
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_33
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 435
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_34
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 433
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_35
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 410
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_36
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 411
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_37
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 426
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_38
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 408
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_39
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 397
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_40
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 395
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_41
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 385
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_42
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 400
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_43
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 394
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_44
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 378
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_45
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 403
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_46
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 352
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_47
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 366
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_48
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 355
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_49
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 326
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_50
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 341
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_51
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 366
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_52
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 354
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_53
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 363
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_54
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 364
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_55
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 329
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_56
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 361
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_57
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 341
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_58
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 366
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_60
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 313
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_61
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 334
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_62
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 330
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_63
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 337
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_64
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 319
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_65
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 309
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_66
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 320
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_67
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 323
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_68
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 315
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_69
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 315
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_70
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 341
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_71
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 336
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_72
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 331
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_74
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 298
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_75
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 300
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_76
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 293
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_77
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 300
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_78
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 272
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_79
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 301
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_80
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 316
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_81
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 305
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_82
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 291
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_83
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 272
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_84
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 288
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_85
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 287
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_86
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 316
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_87
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 301
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_88
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 302
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_89
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 291
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_91
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 266
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_92
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 272
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_93
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 270
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_94
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 262
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_95
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 284
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_96
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 274
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_97
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 275
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_98
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 257
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_99
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 265
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_100
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 274
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_101
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 292
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_102
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 271
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_103
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 269
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_104
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 266
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_106
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 267
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_107
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 267
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_108
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 253
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_109
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 255
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_110
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 247
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_111
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 229
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_112
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 253
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_113
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 245
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_114
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 268
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_115
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 261
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_116
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 233
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_117
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 256
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_119
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 239
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_120
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 234
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_121
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 231
+        width: 41
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_122
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 243
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_123
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 237
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_124
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 221
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_125
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 221
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_126
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 245
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_127
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 238
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_128
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 231
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_129
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 224
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_130
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 212
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_131
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 226
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_132
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 206
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_133
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 216
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_134
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 231
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_135
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 218
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_136
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 244
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_137
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 226
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_138
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 238
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_139
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 233
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_140
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 229
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_141
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 224
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_142
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 218
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_143
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 209
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_144
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 202
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_145
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 198
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_146
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 218
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_147
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 206
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_148
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 210
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_149
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 214
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_150
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 201
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_151
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 177
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_152
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 191
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_153
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 205
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_154
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 187
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_155
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 209
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_156
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 205
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_157
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 192
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_158
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 181
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_159
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 218
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_160
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 185
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_161
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 205
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_162
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 196
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_163
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 199
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_164
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 197
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_165
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 218
+        width: 42
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_166
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 179
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_167
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 173
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_168
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 193
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_169
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 179
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_170
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 171
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_171
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 162
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_172
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 168
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_173
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 181
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_174
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 175
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_175
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 171
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_176
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 172
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_177
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 172
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_178
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 174
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_179
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 160
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_180
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 163
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_181
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 171
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_182
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 163
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_183
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 171
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_184
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 178
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_185
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 171
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_186
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 171
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_187
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 168
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_188
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 194
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_189
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 189
+        width: 41
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_190
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 171
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_191
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_192
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 155
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_193
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 164
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_194
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 169
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_195
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 144
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_196
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 141
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_197
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 170
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_198
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 144
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_199
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 138
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_200
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 160
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_201
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 151
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_202
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 157
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_203
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 158
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_204
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 132
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_205
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 128
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_206
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 148
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_207
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 154
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_208
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 166
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_209
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 165
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_210
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 157
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_211
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 158
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_212
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 120
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_213
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 142
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_214
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 123
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_215
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 138
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_216
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 140
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_217
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 163
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_218
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 137
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_219
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 131
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_220
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 136
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_221
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 131
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_222
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 142
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_223
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 122
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_224
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 132
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_225
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 127
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_226
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 124
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_227
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 124
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_228
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 127
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_229
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 115
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_230
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 125
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_231
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 121
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_232
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 114
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_233
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 131
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_234
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 104
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_235
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 136
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_236
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 136
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_237
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 131
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_238
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 125
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_239
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 118
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_240
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 122
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_241
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 108
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_242
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 110
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_243
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 113
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_244
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 112
+        width: 62
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_245
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 88
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_246
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 95
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_247
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 93
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_248
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 90
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_249
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 109
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_250
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 95
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_251
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 121
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_252
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 130
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_253
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 110
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_254
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 108
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_255
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 105
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_256
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 95
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_257
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 94
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_258
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 80
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_259
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 83
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_260
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 89
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_261
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 105
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_262
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 85
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_263
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 88
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_264
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 103
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_265
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 96
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_266
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 86
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_267
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 89
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_268
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 86
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_269
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 88
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_270
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 88
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_271
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 87
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_272
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 114
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_273
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 92
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_274
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 91
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_275
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 104
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_276
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 96
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_277
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 93
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_278
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 85
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_279
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 76
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_280
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 81
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_281
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 65
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_282
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 63
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_283
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 73
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_284
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 81
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_285
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 70
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_286
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 89
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_287
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 80
+        width: 62
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_288
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 56
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_289
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 48
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_290
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 70
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_291
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 56
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_292
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 82
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_293
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 82
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_294
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 78
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_295
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 65
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_296
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 79
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_297
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 51
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_298
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 71
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_299
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 78
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_301
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 44
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_302
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 57
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_303
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 40
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_304
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 43
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_305
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 42
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_306
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 45
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_307
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 49
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_308
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 37
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_309
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 50
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_310
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 51
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_311
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 49
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_312
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 54
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_313
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 46
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_314
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 43
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_315
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 50
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_316
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 48
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_317
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 44
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_318
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 44
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_319
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 37
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_320
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 39
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_321
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 40
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_322
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 48
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_323
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 47
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_324
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 47
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_325
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 46
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_326
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 43
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_327
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 45
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_328
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 39
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_329
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 47
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_330
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 62
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_331
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 43
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_332
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 42
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_334
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 33
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_335
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 34
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_336
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 33
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_337
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 48
+        width: 45
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_338
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 8
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_339
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 38
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_340
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 6
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_341
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 37
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_342
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 35
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_343
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 12
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_344
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 9
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_345
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 4
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_346
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 3
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_347
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_348
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 3
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_349
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 6
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_350
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 5
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_351
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 9
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_352
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 11
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_353
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 8
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_354
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 7
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_355
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 9
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_356
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 21
+        width: 45
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_357
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 15
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_358
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 13
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_359
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 10
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_360
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 12
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_361
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 8
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_362
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 8
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_363
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 10
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_364
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 8
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_365
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 3
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_366
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 11
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_367
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 7
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_368
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 6
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_369
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 0
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_370
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 3
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_371
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 4
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_372
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 7
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_373
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 8
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_374
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 10
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_375
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 3
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_376
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 4
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_377
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 13
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_378
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 12
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_379
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 6
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_380
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 11
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_381
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 11
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soma_spritesheet_rotated_382
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 6
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
