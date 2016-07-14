@@ -1,9 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/playerInput.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../../../private/tmp/d/Assets/Scripts/golfBall.cs">
     <Files>
-      <File FileName="Assets/Scripts/followCam.cs" Line="17" Column="21" />
-      <File FileName="Assets/Scripts/playerInput.cs" Line="7" Column="28" />
+      <File FileName="../../../../../../private/tmp/d/Assets/Scripts/golfBall.cs" Line="32" Column="37" />
+      <File FileName="../../../../../../private/tmp/d/Assets/Scripts/cameraControl.cs" Line="67" Column="64" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

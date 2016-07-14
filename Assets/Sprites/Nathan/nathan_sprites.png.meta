@@ -1,0 +1,2554 @@
+fileFormatVersion: 2
+guid: 1ca68281104b9464db4640cacd2e6976
+timeCreated: 1468522099
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: nathan_sprites_0
+    21300002: nathan_sprites_1
+    21300004: nathan_sprites_2
+    21300006: nathan_sprites_3
+    21300008: nathan_sprites_4
+    21300010: nathan_sprites_5
+    21300012: nathan_sprites_6
+    21300014: nathan_sprites_7
+    21300016: nathan_sprites_8
+    21300018: nathan_sprites_9
+    21300020: nathan_sprites_10
+    21300022: nathan_sprites_11
+    21300024: nathan_sprites_12
+    21300026: nathan_sprites_13
+    21300028: nathan_sprites_14
+    21300030: nathan_sprites_15
+    21300032: nathan_sprites_16
+    21300034: nathan_sprites_17
+    21300036: nathan_sprites_20
+    21300038: nathan_sprites_22
+    21300040: nathan_sprites_24
+    21300042: nathan_sprites_26
+    21300044: nathan_sprites_27
+    21300046: nathan_sprites_29
+    21300048: nathan_sprites_32
+    21300050: nathan_sprites_35
+    21300052: nathan_sprites_38
+    21300054: nathan_sprites_46
+    21300056: nathan_sprites_48
+    21300058: nathan_sprites_50
+    21300060: nathan_sprites_51
+    21300062: nathan_sprites_53
+    21300064: nathan_sprites_56
+    21300066: nathan_sprites_59
+    21300068: nathan_sprites_62
+    21300070: nathan_sprites_66
+    21300072: nathan_sprites_68
+    21300074: nathan_sprites_70
+    21300076: nathan_sprites_71
+    21300078: nathan_sprites_73
+    21300080: nathan_sprites_75
+    21300082: nathan_sprites_78
+    21300084: nathan_sprites_81
+    21300086: nathan_sprites_89
+    21300088: nathan_sprites_90
+    21300090: nathan_sprites_91
+    21300092: nathan_sprites_92
+    21300094: nathan_sprites_93
+    21300096: nathan_sprites_94
+    21300098: nathan_sprites_95
+    21300100: nathan_sprites_96
+    21300102: nathan_sprites_97
+    21300104: nathan_sprites_103
+    21300106: nathan_sprites_104
+    21300108: nathan_sprites_105
+    21300110: nathan_sprites_106
+    21300112: nathan_sprites_107
+    21300114: nathan_sprites_108
+    21300116: nathan_sprites_117
+    21300118: nathan_sprites_118
+    21300120: nathan_sprites_119
+    21300122: nathan_sprites_120
+    21300124: nathan_sprites_121
+    21300126: nathan_sprites_122
+    21300128: nathan_sprites_123
+    21300130: nathan_sprites_134
+    21300132: nathan_sprites_135
+    21300134: nathan_sprites_136
+    21300136: nathan_sprites_137
+    21300138: nathan_sprites_138
+    21300140: nathan_sprites_139
+    21300142: nathan_sprites_140
+    21300144: nathan_sprites_141
+    21300146: nathan_sprites_142
+    21300148: nathan_sprites_143
+    21300150: nathan_sprites_144
+    21300152: nathan_sprites_145
+    21300154: nathan_sprites_146
+    21300156: nathan_sprites_147
+    21300158: nathan_sprites_148
+    21300160: nathan_sprites_149
+    21300162: nathan_sprites_150
+    21300164: nathan_sprites_151
+    21300166: nathan_sprites_152
+    21300168: nathan_sprites_153
+    21300170: nathan_sprites_154
+    21300172: nathan_sprites_155
+    21300174: nathan_sprites_156
+    21300176: nathan_sprites_157
+    21300178: nathan_sprites_158
+    21300180: nathan_sprites_159
+    21300182: nathan_sprites_160
+    21300184: nathan_sprites_161
+    21300186: nathan_sprites_162
+    21300188: nathan_sprites_163
+    21300190: nathan_sprites_164
+    21300192: nathan_sprites_165
+    21300194: nathan_sprites_166
+    21300196: nathan_sprites_167
+    21300198: nathan_sprites_168
+    21300200: nathan_sprites_169
+    21300202: nathan_sprites_170
+    21300204: nathan_sprites_171
+    21300206: nathan_sprites_172
+    21300208: nathan_sprites_173
+    21300210: nathan_sprites_174
+    21300212: nathan_sprites_175
+    21300214: nathan_sprites_176
+    21300216: nathan_sprites_177
+    21300218: nathan_sprites_178
+    21300220: nathan_sprites_179
+    21300222: nathan_sprites_180
+    21300224: nathan_sprites_181
+    21300226: nathan_sprites_182
+    21300228: nathan_sprites_183
+    21300230: nathan_sprites_184
+    21300232: nathan_sprites_185
+    21300234: nathan_sprites_186
+    21300236: nathan_sprites_187
+    21300238: nathan_sprites_188
+    21300240: nathan_sprites_189
+    21300242: nathan_sprites_190
+    21300244: nathan_sprites_191
+    21300246: nathan_sprites_192
+    21300248: nathan_sprites_193
+    21300250: nathan_sprites_194
+    21300252: nathan_sprites_195
+    21300254: nathan_sprites_196
+    21300256: nathan_sprites_197
+    21300258: nathan_sprites_198
+    21300260: nathan_sprites_199
+    21300262: nathan_sprites_200
+    21300264: nathan_sprites_201
+    21300266: nathan_sprites_202
+    21300268: nathan_sprites_203
+    21300270: nathan_sprites_204
+    21300272: nathan_sprites_205
+    21300274: nathan_sprites_206
+    21300276: nathan_sprites_207
+    21300278: nathan_sprites_208
+    21300280: nathan_sprites_209
+    21300282: nathan_sprites_210
+    21300284: nathan_sprites_211
+    21300286: nathan_sprites_212
+    21300288: nathan_sprites_213
+    21300290: nathan_sprites_214
+    21300292: nathan_sprites_215
+    21300294: nathan_sprites_216
+    21300296: nathan_sprites_217
+    21300298: nathan_sprites_218
+    21300300: nathan_sprites_219
+    21300302: nathan_sprites_220
+    21300304: nathan_sprites_221
+    21300306: nathan_sprites_222
+    21300308: nathan_sprites_223
+    21300310: nathan_sprites_224
+    21300312: nathan_sprites_225
+    21300314: nathan_sprites_226
+    21300316: nathan_sprites_227
+    21300318: nathan_sprites_228
+    21300320: nathan_sprites_229
+    21300322: nathan_sprites_230
+    21300324: nathan_sprites_231
+    21300326: nathan_sprites_232
+    21300328: nathan_sprites_233
+    21300330: nathan_sprites_234
+    21300332: nathan_sprites_235
+    21300334: nathan_sprites_236
+    21300336: nathan_sprites_237
+    21300338: nathan_sprites_238
+    21300340: nathan_sprites_239
+    21300342: nathan_sprites_240
+    21300344: nathan_sprites_241
+    21300346: nathan_sprites_242
+    21300348: nathan_sprites_243
+    21300350: nathan_sprites_244
+    21300352: nathan_sprites_245
+    21300354: nathan_sprites_246
+    21300356: nathan_sprites_247
+    21300358: nathan_sprites_248
+    21300360: nathan_sprites_249
+    21300362: nathan_sprites_250
+    21300364: nathan_sprites_251
+    21300366: nathan_sprites_252
+    21300368: nathan_sprites_253
+    21300370: nathan_sprites_254
+    21300372: nathan_sprites_255
+    21300374: nathan_sprites_256
+    21300376: nathan_sprites_257
+    21300378: nathan_sprites_258
+    21300380: nathan_sprites_259
+    21300382: nathan_sprites_260
+    21300384: nathan_sprites_261
+    21300386: nathan_sprites_262
+    21300388: nathan_sprites_263
+    21300390: nathan_sprites_264
+    21300392: nathan_sprites_265
+    21300394: nathan_sprites_266
+    21300396: nathan_sprites_267
+    21300398: nathan_sprites_268
+    21300400: nathan_sprites_269
+    21300402: nathan_sprites_270
+    21300404: nathan_sprites_271
+    21300406: nathan_sprites_272
+    21300408: nathan_sprites_273
+    21300410: nathan_sprites_274
+    21300412: nathan_sprites_275
+    21300414: nathan_sprites_276
+    21300416: nathan_sprites_277
+    21300418: nathan_sprites_278
+    21300420: nathan_sprites_279
+    21300422: nathan_sprites_280
+    21300424: nathan_sprites_281
+    21300426: nathan_sprites_282
+    21300428: nathan_sprites_283
+    21300430: nathan_sprites_284
+    21300432: nathan_sprites_285
+    21300434: nathan_sprites_286
+    21300436: nathan_sprites_287
+    21300438: nathan_sprites_288
+    21300440: nathan_sprites_289
+    21300442: nathan_sprites_290
+    21300444: nathan_sprites_291
+    21300446: nathan_sprites_292
+    21300448: nathan_sprites_293
+    21300450: nathan_sprites_294
+    21300452: nathan_sprites_295
+    21300454: nathan_sprites_296
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: nathan_sprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 968
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 968
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 968
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 968
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 968
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 968
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 968
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 968
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 968
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 968
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 968
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 968
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 968
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 968
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 968
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 968
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 968
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_17
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 968
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_29
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_35
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_38
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_46
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_48
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_50
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_53
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_56
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_59
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_62
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_68
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_70
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_71
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_75
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_78
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_81
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_90
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_91
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 744
+        width: 32
+        height: 33
+      alignment: 9
+      pivot: {x: .5, y: .484848499}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_92
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 744
+        width: 32
+        height: 34
+      alignment: 9
+      pivot: {x: .5, y: .470588237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_93
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 744
+        width: 32
+        height: 34
+      alignment: 9
+      pivot: {x: .5, y: .470588207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_94
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 744
+        width: 32
+        height: 34
+      alignment: 9
+      pivot: {x: .5, y: .470588207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_95
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 744
+        width: 32
+        height: 34
+      alignment: 9
+      pivot: {x: .5, y: .470588207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_96
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_97
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_104
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_105
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_106
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_107
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_108
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_118
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_119
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_120
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_121
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_122
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_134
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 648
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_135
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 648
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_136
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 648
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_137
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 648
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_138
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 648
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_139
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 648
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_140
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 648
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_141
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 648
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_142
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_143
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_144
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_145
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_146
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_147
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_148
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_149
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_150
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_151
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_152
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_153
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 584
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_154
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 584
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_155
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 584
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_156
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 584
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_157
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 584
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_158
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 584
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_159
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 584
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_160
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 584
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_161
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 584
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_162
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 584
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_163
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 584
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_164
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 552
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_165
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 552
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_166
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 552
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_167
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 552
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_168
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 520
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_169
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 520
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_170
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 520
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_171
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 520
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_172
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 520
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_173
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 520
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_174
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 488
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_175
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 488
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_176
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 488
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_177
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 488
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_178
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 488
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_179
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 488
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_180
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 488
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_181
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_182
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 456
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_183
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 456
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_184
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 456
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_185
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 456
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_186
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 456
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_187
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 456
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_188
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 456
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_189
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_190
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 424
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_191
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 424
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_192
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 424
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_193
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 424
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_194
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 424
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_195
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 424
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_196
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 424
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_197
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 424
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_198
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 424
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_199
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 424
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_201
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_202
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_203
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_204
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_205
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_206
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_207
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_208
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_209
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_210
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_211
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_212
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_213
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_214
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_215
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_216
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_217
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_218
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_219
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_221
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_222
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_223
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_224
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_225
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_226
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_227
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_228
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_229
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_230
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_231
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_232
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_233
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_234
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_235
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_236
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_237
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_238
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_239
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_240
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_241
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_242
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_243
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_244
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_245
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_246
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_247
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_248
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_249
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_250
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_251
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_252
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_253
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_254
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_255
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_256
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_257
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_258
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_259
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_260
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_261
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_262
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_263
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_264
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_265
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_266
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_267
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_268
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_269
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_270
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_271
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_272
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_273
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_274
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_275
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_276
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_277
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_278
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_279
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_280
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_281
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_282
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_283
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_284
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_285
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_286
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_287
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_288
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_289
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_290
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_291
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_292
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_293
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_294
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_295
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nathan_sprites_296
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
